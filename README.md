@@ -1,4 +1,4 @@
-# NYCTaxisTraffic
+# NYCTaxisTrafficMap
 
 This paper shows a spatial visualization and analysis in Python with Folium of NYC Traffic heat, work of Anthony Ivan.
 
