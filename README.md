@@ -4,4 +4,4 @@ This paper shows a spatial visualization and analysis in Python with Folium of N
 
 The goal is to use Python libraries in order to create an interactive map of NYC Taxis traffic, during the day.
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/salmakertit/NYCTaxisTraffic/blob/master/Capture%20d%E2%80%99e%CC%81cran%202020-02-25%20a%CC%80%2016.33.27.png)
